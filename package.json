@@ -1,0 +1,28 @@
+{
+  "name": "slack-sidebar",
+  "version": "1.0.0",
+  "description": "quick Slack wrapper to hack a toggle visibility for the sidebar",
+  "main": "main.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager ./ slack-sidebar"
+  },
+  "repository": "https://github.com/pjnovas/slack-sidebar",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Pablo Novas <pjnovas@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.0",
+    "electron-packager": "^14.2.1"
+  },
+  "dependencies": {}
+}
