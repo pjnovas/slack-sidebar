@@ -34,6 +34,11 @@ WORKSPACE=fun_with_friends npm start
 
 That will lift up slack site and use your cookies so it's up like the app.
 
+Wanna dev tools?, run it as:
+```bash
+NODE_ENV=development WORKSPACE=fun_with_friends npm start
+```
+
 Then you can toggle sidebar with `Ctrl+Tab` or `Command+Tab` (you must focus on slack first)
 
 ![with_bar](with_bar.png)
