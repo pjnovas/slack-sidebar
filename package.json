@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "electron .",
-    "package": "electron-packager ./ slack-sidebar"
+    "package": "electron-packager ./ slack-sidebar --overwrite"
   },
   "repository": "https://github.com/pjnovas/slack-sidebar",
   "keywords": [
