@@ -21,7 +21,7 @@
   "author": "Pablo Novas <pjnovas@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.0.0",
+    "electron": "^9.3.0",
     "electron-packager": "^14.2.1"
   },
   "dependencies": {}
